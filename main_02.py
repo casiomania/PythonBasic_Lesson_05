@@ -1,4 +1,4 @@
-# Lesson 05 / Homework 02
+# Lesson 05 / Homework 02 
 # There is a list of integers filled with random numbers.
 # Based on the data of this array, you need to:
 # Create a list of integers containing only even numbers from the first list;
